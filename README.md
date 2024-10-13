@@ -1,6 +1,4 @@
-# 🏫 42 Piscine - Luanda
-
-![42 Luanda](https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg)
+# 42 Piscine - Luanda
 
 Welcome to the **42 Piscine** repository! Here, you will find foundational exercises that are essential for mastering the **C programming language**. Each module introduces critical concepts that will help you develop your programming skills.
 
