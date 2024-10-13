@@ -1,32 +1,27 @@
-# 42 Piscine - Luanda
+# 🌊 42 Piscine - Luanda
 
-Welcome to the **42 Piscine** repository! Here, you will find foundational exercises that are essential for mastering the **C programming language**. Each module introduces critical concepts that will help you develop your programming skills.
+[![Stars](https://img.shields.io/github/stars/Disaster-Loki/42_Piscine?color=yellow)](https://github.com/Disaster-Loki/42_Piscine/stargazers)
+[![Forks](https://img.shields.io/github/forks/Disaster-Loki/42_Piscine?color=blue)](https://github.com/Disaster-Loki/42_Piscine/network/members)
+[![License](https://img.shields.io/github/license/Disaster-Loki/42_Piscine)](https://github.com/Disaster-Loki/42_Piscine/blob/main/LICENSE)
+
+Welcome to the **42 Piscine** repository! Here, you will find foundational exercises that are essential for mastering the **C programming language**. Each module introduces critical concepts that will help you develop your programming skills. 🌱💻
+
+---
 
 ## 📂 Module Structure
 
-### Piscine_C00 - Introduction to C
-This module covers the basics of C programming, including printing characters, manipulating numbers, and working with simple control structures.
+| Module            | Description                                                                 |
+|-------------------|-----------------------------------------------------------------------------|
+| 🌟 [Piscine_C00](https://github.com/Disaster-Loki/42_Piscine/tree/main/Piscine_C00) | Introduction to C programming, covering printing characters, manipulating numbers, and simple control structures. |
+| 🔗 [Piscine_C01](https://github.com/Disaster-Loki/42_Piscine/tree/main/Piscine_C01) | Dive into pointers, exploring data manipulation using memory addresses and basic conditional statements. |
+| 🅰️ [Piscine_C02](https://github.com/Disaster-Loki/42_Piscine/tree/main/Piscine_C02) | Introduction to string manipulation and array operations, focusing on copying, checking, and transforming strings. |
+| 🔗 [Piscine_C03](https://github.com/Disaster-Loki/42_Piscine/tree/main/Piscine_C03) | Learn to compare and concatenate strings using specific functions key to string manipulation in C. |
+| 🔍 [Piscine_C04](https://github.com/Disaster-Loki/42_Piscine/tree/main/Piscine_C04) | Expand your knowledge of strings and introduce integer manipulation, including printing and analyzing integers. |
+| ➗ [Piscine_C05](https://github.com/Disaster-Loki/42_Piscine/tree/main/Piscine_C05) | Covers mathematical algorithms in C, such as calculating factorials, powers, Fibonacci sequences, and finding square roots. |
+| 💻 [Piscine_C06](https://github.com/Disaster-Loki/42_Piscine/tree/main/Piscine_C06) | Learn to work with command-line arguments (`argc` and `argv`), crucial for interacting with user input in C programs. |
+| 🛠️ [Piscine_C07](https://github.com/Disaster-Loki/42_Piscine/tree/main/Piscine_C07) | Teaches dynamic memory allocation, including how to duplicate strings, generate ranges, and join strings dynamically. |
 
-### Piscine_C01 - Pointers and Conditionals
-In this module, you'll dive into pointers, exploring how to manipulate data using memory addresses and basic conditional statements.
-
-### Piscine_C02 - Strings and Arrays
-This module introduces string manipulation and array operations, focusing on how to copy, check, and transform strings.
-
-### Piscine_C03 - String Functions and Concatenation
-Here, you'll learn how to compare and concatenate strings using specific functions that are key to string manipulation in C.
-
-### Piscine_C04 - String Analysis and Integer Manipulation
-This module expands your knowledge of strings and introduces integer manipulation, including how to print and analyze integers.
-
-### Piscine_C05 - Mathematical Concepts in C
-This module covers mathematical algorithms in C, such as calculating factorials, powers, Fibonacci sequences, and finding square roots.
-
-### Piscine_C06 - Understanding Argc and Argv
-In this module, you'll learn how to work with command-line arguments (`argc` and `argv`), which are crucial for interacting with user input in C programs.
-
-### Piscine_C07 - Memory Allocation
-This module teaches dynamic memory allocation, including how to duplicate strings, generate ranges, and join strings dynamically.
+---
 
 ## 🌟 How to Clone the Repository
 
